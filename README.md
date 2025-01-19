@@ -58,8 +58,3 @@ The **Job Seeking Application** is a full-stack platform designed to connect **J
 
 ---
 
-## Project Link
-
-Access the project on GitHub: [Job Seeking Application Repository](<github-link>)
-
----
