@@ -60,6 +60,6 @@ The **Job Seeking Application** is a full-stack platform designed to connect **J
 
 ## Project Link
 
-Check out the live version of the project here: [Job Seeker Application](jobseeking-web-application-rushikesh.netlify.app)
+Check out the live version of the project here: [Job Seeker Application](https://jobseeking-web-application-rushikesh.netlify.app)
 
 ---
